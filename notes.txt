@@ -1,0 +1,23 @@
+1. Are detailed notes written to give insight of what the code might be.
+2. #, for a multiple line use colon (:)
+3. print 
+4.  print( “Hello” “World”)
+  5.
+
+
+6.
+
+7.
+
+8
+
+9. Reset turns back changes and deletes the history & revert is still in history but you can add a new history.
+10. List are in square brackets while Tuple is are in ()
+11. Pwd
+12. 
+13.
+14.
+15.Boolean
+16.binary
+
+
