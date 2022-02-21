@@ -1,4 +1,4 @@
-1. Are detailed notes written to give insight of what the code might be.
+1. Are detailed notes written to give insight of what the code might be. Comments are lines that aren't read by the interpreter.
 2. #, for a multiple line use colon (:)
 3. print 
 4.  print( “Hello” “World”)
