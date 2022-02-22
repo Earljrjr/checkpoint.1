@@ -1,2 +1,7 @@
-What can I do to know where I am within my file system
-pwd
+Describe the anatomy of a Python dictionary and create one below.
+A dictionary is an unordered and mutable Python container that stores mappings of unique keys to values.
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
