@@ -1,3 +1,2 @@
-When saving a value for later use what type of operator do we use?
-()
-
+What's the key difference between git revert and git reset?
+ Reset turns back changes and deletes the history & revert is still in history but you can add a new history.
