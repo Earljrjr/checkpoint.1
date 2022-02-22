@@ -1,2 +1,2 @@
-What's the key difference between git revert and git reset?
- Reset turns back changes and deletes the history & revert is still in history but you can add a new history.
+What's the key difference between Python lists and tuples?
+List are in square brackets while Tuple is are in ()
