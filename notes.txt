@@ -1,7 +1,2 @@
-Describe the anatomy of a Python dictionary and create one below.
-A dictionary is an unordered and mutable Python container that stores mappings of unique keys to values.
-thisdict = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 1964
-}
+What type of values can be in a Python dictionary?
+can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples.
