@@ -1,2 +1,2 @@
-What can I do to know where I am within my file system?
-Pwd
+What can I do to know where I am within my file system
+pwd
