@@ -1,2 +1,11 @@
-6) What can I do to prevent certain files and directories from being tracked by git?
-gitignore
+What can be used in order to repeat some block of code? Provide 2 examples.
+loops
+while loops and for loops
+i = 1.
+while True:
+print(i)
+i = i + 1.
+if(i > 5):
+break.
+for val in sequence:
+    loop body
