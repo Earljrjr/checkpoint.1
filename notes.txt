@@ -1,2 +1,2 @@
-What's the key difference between Python lists and tuples?
-List are in square brackets while Tuple is are in ()
+What can I do to know where I am within my file system?
+Pwd
