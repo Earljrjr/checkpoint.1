@@ -1,7 +1,2 @@
-Describe the anatomy of a Python dictionary and create one below.
-Dictionaries are Python's implementation of a data structure that is more generally known as an associative array.
-thisdict = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 1964
-}
+What can I do to know where I am within my file system
+pwd
