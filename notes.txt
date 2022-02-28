@@ -1,2 +1,2 @@
- What language does your computer understand?
- Binary 0s ans 1s
+ What do we need in order for your computer to make use of programming languages?
+a compellor
