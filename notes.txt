@@ -1,2 +1,2 @@
-13) What type of values can be in a Python dictionary?
-Key value pairs 
+14) What type of values can be in a Python list
+Allows list that are made of variables, they are changeable, ordered and, allow duplicates. 
