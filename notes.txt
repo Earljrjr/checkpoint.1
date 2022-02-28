@@ -1,2 +1,1 @@
-20) What does backend / server side mean?
-It include code in python, translator, and machine code. 
+
