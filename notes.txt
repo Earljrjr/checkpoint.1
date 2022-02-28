@@ -1,2 +1,2 @@
- What do we need in order for your computer to make use of programming languages?
-Compellor
+What language does your computer understand?
+Binary code 
