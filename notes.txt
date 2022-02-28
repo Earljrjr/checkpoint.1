@@ -1,2 +1,2 @@
-1) What are comments?
-Comments are you where you can write notes in the text editor about your code.
+13) What type of values can be in a Python dictionary?
+Key value pairs 
