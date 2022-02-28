@@ -1,2 +1,2 @@
-What language does your computer understand?
-Binary code 0s and 1s
+15) What data type are True and False?
+Boolean
