@@ -1,2 +1,2 @@
-What type of values can be in a Python dictionary?
-can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples.
+13) What type of values can be in a Python dictionary?
+Key value pairs 
